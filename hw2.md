@@ -44,8 +44,8 @@ UML是一种开放的方法，用于说明、可视化、构建和编写一个�
 
 ### 2.1 看板使用练习（提交看板执行结果贴图，建议使用Git project）
 
-![hw2-1-看板](images/hw2-1-%E7%9C%8B%E6%9D%BF.png)
+![hw2-1-看板](images/hw2-1-%E7%9C%8B%E6%9D%BF.png?raw=true)
 
 ### 2.2 UML绘图工具练习（提交贴图，必须使用UMLet）
 
-![hw2-2-uml](images/hw2-2-uml.png)
+![hw2-2-uml](images/hw2-2-uml.png?raw=true)
